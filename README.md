@@ -1,2 +1,2 @@
-# Reeder-s-Repository
+# Reeder-Repository
 First repository.
